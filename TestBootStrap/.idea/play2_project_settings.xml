@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Play2ExcludedModulesSettings">
+    <option name="INFO">
+      <map>
+        <entry key="TestBootStrap">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="playDistrPath" value="$USER_HOME$/.ivy2/cache/com.typesafe.play/play_2.10/jars/play_2.10-2.2.1.jar" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="playConf">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="sourceDir" value="D:\MyPrj\scalaseed\TestBootStrap\conf" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="playRoutesImports">
+          <value>
+            <ProjectSettingsEntry />
+          </value>
+        </entry>
+        <entry key="playVersion">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="version" value="2.2.1" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="sourceDirectory">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="confDir" value="D:\MyPrj\scalaseed\TestBootStrap\app" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+        <entry key="twirlTemplatesImports">
+          <value>
+            <ProjectSettingsEntry />
+          </value>
+        </entry>
+        <entry key="uri">
+          <value>
+            <ProjectSettingsEntry>
+              <option name="uri" value="/D:/MyPrj/scalaseed/TestBootStrap" />
+            </ProjectSettingsEntry>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
